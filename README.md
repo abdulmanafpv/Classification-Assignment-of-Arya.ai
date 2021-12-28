@@ -9,6 +9,9 @@ This is a task Assignment given by Arya.ai. This Assignment is a classification 
 
 *) Find a good classification model
 
+# Objective: 
+Create a good classification model
+
 # Contents
 This is a binary classification Data set. This problem include two data sets,one is train data set and other is test data set. In train data set include 3910 records, 57 features and one output, In test data set include 691 records and 57 features. For this i developed and compared somany models.
 
