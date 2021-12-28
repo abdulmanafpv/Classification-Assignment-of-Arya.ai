@@ -11,6 +11,13 @@ This is a task Assignment given by Arya.ai. This Assignment is a classification 
 
 # Objective: 
 Create a good classification model
+# Steps and Tasks:
+1.	Model performance analysis on validation set in terms of various risks
+2.	A script that generates/prints the performance of model as in step 2 for a validation set
+3.	Model predictions for the test dataset.
+4.	A notebook/script showcasing the EDA/Feature selection and preprocessing steps.
+5.	A list of dependencies/libraries & their versions to run the code.
+
 
 # Contents
 This is a binary classification Data set. This problem include two data sets,one is train data set and other is test data set. In train data set include 3910 records, 57 features and one output, In test data set include 691 records and 57 features. For this i developed and compared somany models.
